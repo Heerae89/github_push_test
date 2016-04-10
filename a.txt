@@ -1,2 +1,2 @@
 hello
-added at master branch
+complete merge conflict
